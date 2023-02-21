@@ -2,7 +2,7 @@
 
 using namespace std;
 
-extern "C" progasm(int a,int b);
+extern "C" _rec(int a,int b);
 
 int main(){
 
