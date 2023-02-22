@@ -1,0 +1,3 @@
+main.cpp    parte de interaçao com o usuario;
+main.asm    parte de processamento de dados;
+libR.asm    biblioteca registradores asm;
