@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stdlib.h> //Para usar códigos do terminal "system()"
-
+#include calc
 using namespace std;
 
 //PROTOTIPAÇÕES
