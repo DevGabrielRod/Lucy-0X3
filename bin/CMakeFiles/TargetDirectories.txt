@@ -1,0 +1,3 @@
+/home/gabriel/Desktop/WorkSpace/Lucy-0X3/bin/CMakeFiles/main.exec.dir
+/home/gabriel/Desktop/WorkSpace/Lucy-0X3/bin/CMakeFiles/edit_cache.dir
+/home/gabriel/Desktop/WorkSpace/Lucy-0X3/bin/CMakeFiles/rebuild_cache.dir
